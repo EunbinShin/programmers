@@ -52,6 +52,10 @@
 
 
 
+
+
+
+
 ## 🧡 Level 2.
 
 |문제|링크|코드|
@@ -60,3 +64,6 @@
 |튜플|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](./Level2/64065/solution.py)|
 |최댓값과 최솟값|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[풀이](./Level2/12939/solution.py)|
 |JadenCase 문자열 만들기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[풀이](./Level2/12951/solution.py)|
+|숫자의 표현|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[풀이](./Level2/12924/solution.py)|
+|피보나치 수|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[풀이](./Level2/12945/solution.py)|
+
