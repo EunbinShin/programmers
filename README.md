@@ -66,4 +66,6 @@
 |JadenCase 문자열 만들기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[풀이](./Level2/12951/solution.py)|
 |숫자의 표현|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[풀이](./Level2/12924/solution.py)|
 |피보나치 수|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[풀이](./Level2/12945/solution.py)|
-
+|이진 변환 반복하기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[풀이](./Level2/70129/solution.py)|
+|최솟값 만들기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[풀이](./Level2/12941/solution.py)|
+|영어 끝말잇기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[풀이](./Level2/12981/solution.py)|
