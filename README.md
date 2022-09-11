@@ -70,3 +70,4 @@
 |최솟값 만들기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[풀이](./Level2/12941/solution.py)|
 |영어 끝말잇기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[풀이](./Level2/12981/solution.py)|
 |구명보트|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[풀이](./Level2/42885/solution.py)|
+|멀리 뛰기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[풀이](./Level2/12914/solution.py)|
