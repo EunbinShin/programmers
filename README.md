@@ -71,3 +71,4 @@
 |영어 끝말잇기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[풀이](./Level2/12981/solution.py)|
 |구명보트|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[풀이](./Level2/42885/solution.py)|
 |멀리 뛰기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[풀이](./Level2/12914/solution.py)|
+|땅따먹기|[링크](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[풀이](./Level2/12913/solution.py)|
